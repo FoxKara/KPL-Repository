@@ -1,2 +1,3 @@
 # KPL-Repository
-Kara Posing Lab distribution catalogues
+
+Catalogues publics Dalamud de Kara Posing Lab. Aucune version disponible.

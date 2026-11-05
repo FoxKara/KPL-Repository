@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "Author": "Kara Posing Lab contributors; Ktisis and Brio contributors (adapted mechanisms)",
+    "Name": "Kara Posing Lab",
+    "InternalName": "PoseLabPrototype",
+    "Description": "Version expérimentale de validation Dalamud. Notifications de mise à jour, interface de posing affinée et diagnostics automatiques des retraits d'acteurs en GPose. GPLv3.",
+    "Punchline": "Poses, placement et flipbook avec Kara Timeline.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "gpose",
+      "posing"
+    ],
+    "AssemblyVersion": "0.9.10.4",
+    "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.4/PoseLabPrototype-0.9.10.4.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.4/PoseLabPrototype-0.9.10.4.zip",
+    "IsTestingExclusive": true,
+    "Changelog": "# Kara Posing Lab 0.9.10.4 Experimental\r\n\r\n- Ajout d’une annonce dans le chat et d’un accès direct aux mises à jour du gestionnaire Dalamud, pour les installations issues du dépôt.\r\n- Aide des valeurs numériques adaptée à la sélection. Accès aux groupes annexes depuis l’en-tête du mannequin et onglet Debug facultatif.\r\n- Enregistreur A06.1 conservé. Les retraits d’acteurs modifiés en GPose restent observés automatiquement.\r\n- Premier candidat pour le catalogue expérimental de validation. Compatible avec l’API Dalamud 15.",
+    "TestingAssemblyVersion": "0.9.10.4",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.4/PoseLabPrototype-0.9.10.4.zip",
+    "TestingChangelog": "# Kara Posing Lab 0.9.10.4 Experimental\r\n\r\n- Ajout d’une annonce dans le chat et d’un accès direct aux mises à jour du gestionnaire Dalamud, pour les installations issues du dépôt.\r\n- Aide des valeurs numériques adaptée à la sélection. Accès aux groupes annexes depuis l’en-tête du mannequin et onglet Debug facultatif.\r\n- Enregistreur A06.1 conservé. Les retraits d’acteurs modifiés en GPose restent observés automatiquement.\r\n- Premier candidat pour le catalogue expérimental de validation. Compatible avec l’API Dalamud 15.",
+    "LastUpdate": "1793854960"
+  }
+]

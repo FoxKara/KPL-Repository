@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.7",
+    "AssemblyVersion": "0.9.10.8",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.8/PoseLabPrototype-0.9.10.8.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.8/PoseLabPrototype-0.9.10.8.zip",
     "IsTestingExclusive": true,
-    "Changelog": "# Kara Posing Lab 0.9.10.7 Experimental\r\n\r\n- Sélection et activation automatiques du personnage local à l'entrée en GPose, avec attente lorsque son acteur n'est pas encore prêt.\r\n- Synchronisation de la sélection KPL avec les changements de cible GPose, sans modifier la caméra ni nécessiter l'onglet Acteurs.\r\n- Sélection unifiée et contrôle de finalisation du geste sortant pour préserver les espaces de travail de chaque acteur.\r\n- Détection autonome des mises à jour, fenêtre satellite et diagnostics passifs conservés.",
-    "TestingAssemblyVersion": "0.9.10.7",
+    "Changelog": "# Kara Posing Lab 0.9.10.8 Experimental\r\n\r\n- Correction d'un refus de manipulation lorsqu'une contribution très petite reste nécessaire à la recomposition de la pose. Les contrôles documentaires et les tolérances numériques sont conservés.\r\n- Un focus GPose temporairement non éditable n'annule plus l'attente du personnage principal. Les choix manuels restent prioritaires et l'identification reste stricte.\r\n- Finalisation protégée du dernier état accepté d'un geste suspendu, sur données détachées. En cas d'échec, le geste reste conservé et le refus est signalé ; aucune quarantaine n'est levée.\r\n\r\nLes diagnostics passifs, les documents KPL 1.0 et les mécanismes de mise à jour restent présents. Candidat soumis à validation native ; aucune installation ni publication automatique.",
+    "TestingAssemblyVersion": "0.9.10.8",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
-    "TestingChangelog": "# Kara Posing Lab 0.9.10.7 Experimental\r\n\r\n- Sélection et activation automatiques du personnage local à l'entrée en GPose, avec attente lorsque son acteur n'est pas encore prêt.\r\n- Synchronisation de la sélection KPL avec les changements de cible GPose, sans modifier la caméra ni nécessiter l'onglet Acteurs.\r\n- Sélection unifiée et contrôle de finalisation du geste sortant pour préserver les espaces de travail de chaque acteur.\r\n- Détection autonome des mises à jour, fenêtre satellite et diagnostics passifs conservés.",
-    "LastUpdate": "1793873894",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.8/PoseLabPrototype-0.9.10.8.zip",
+    "TestingChangelog": "# Kara Posing Lab 0.9.10.8 Experimental\r\n\r\n- Correction d'un refus de manipulation lorsqu'une contribution très petite reste nécessaire à la recomposition de la pose. Les contrôles documentaires et les tolérances numériques sont conservés.\r\n- Un focus GPose temporairement non éditable n'annule plus l'attente du personnage principal. Les choix manuels restent prioritaires et l'identification reste stricte.\r\n- Finalisation protégée du dernier état accepté d'un geste suspendu, sur données détachées. En cas d'échec, le geste reste conservé et le refus est signalé ; aucune quarantaine n'est levée.\r\n\r\nLes diagnostics passifs, les documents KPL 1.0 et les mécanismes de mise à jour restent présents. Candidat soumis à validation native ; aucune installation ni publication automatique.",
+    "LastUpdate": "1793895475",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.8/icon.png"
   }
 ]

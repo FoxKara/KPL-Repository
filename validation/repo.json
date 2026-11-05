@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.6",
+    "AssemblyVersion": "0.9.10.7",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.6/PoseLabPrototype-0.9.10.6.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.6/PoseLabPrototype-0.9.10.6.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
     "IsTestingExclusive": true,
-    "Changelog": "# Kara Posing Lab 0.9.10.6 Experimental\r\n\r\n- Détection autonome des nouvelles versions depuis le catalogue de l'installation, au chargement puis toutes les 30 minutes.\r\n- Notification unique par version et session, partagée avec la détection native Dalamud.\r\n- Fenêtre satellite de mise à jour alignée sur KPL, avec indication lorsqu'une actualisation du catalogue Dalamud est encore nécessaire.\r\n- Installation et téléchargement des DLL entièrement confiés au gestionnaire Dalamud.\r\n- Icône provisoire KPL conservée. Le cache d'images vide de Dalamud a été identifié et sa remise à zéro confirmée en jeu.",
-    "TestingAssemblyVersion": "0.9.10.6",
+    "Changelog": "# Kara Posing Lab 0.9.10.7 Experimental\r\n\r\n- Sélection et activation automatiques du personnage local à l'entrée en GPose, avec attente lorsque son acteur n'est pas encore prêt.\r\n- Synchronisation de la sélection KPL avec les changements de cible GPose, sans modifier la caméra ni nécessiter l'onglet Acteurs.\r\n- Sélection unifiée et contrôle de finalisation du geste sortant pour préserver les espaces de travail de chaque acteur.\r\n- Détection autonome des mises à jour, fenêtre satellite et diagnostics passifs conservés.",
+    "TestingAssemblyVersion": "0.9.10.7",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.6/PoseLabPrototype-0.9.10.6.zip",
-    "TestingChangelog": "# Kara Posing Lab 0.9.10.6 Experimental\r\n\r\n- Détection autonome des nouvelles versions depuis le catalogue de l'installation, au chargement puis toutes les 30 minutes.\r\n- Notification unique par version et session, partagée avec la détection native Dalamud.\r\n- Fenêtre satellite de mise à jour alignée sur KPL, avec indication lorsqu'une actualisation du catalogue Dalamud est encore nécessaire.\r\n- Installation et téléchargement des DLL entièrement confiés au gestionnaire Dalamud.\r\n- Icône provisoire KPL conservée. Le cache d'images vide de Dalamud a été identifié et sa remise à zéro confirmée en jeu.",
-    "LastUpdate": "1793867097",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.6/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/PoseLabPrototype-0.9.10.7.zip",
+    "TestingChangelog": "# Kara Posing Lab 0.9.10.7 Experimental\r\n\r\n- Sélection et activation automatiques du personnage local à l'entrée en GPose, avec attente lorsque son acteur n'est pas encore prêt.\r\n- Synchronisation de la sélection KPL avec les changements de cible GPose, sans modifier la caméra ni nécessiter l'onglet Acteurs.\r\n- Sélection unifiée et contrôle de finalisation du geste sortant pour préserver les espaces de travail de chaque acteur.\r\n- Détection autonome des mises à jour, fenêtre satellite et diagnostics passifs conservés.",
+    "LastUpdate": "1793873894",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.7/icon.png"
   }
 ]

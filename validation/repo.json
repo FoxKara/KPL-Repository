@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.14",
+    "AssemblyVersion": "0.9.10.17",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
     "IsTestingExclusive": true,
-    "Changelog": "Kara Posing Lab 0.9.10.14 Experimental — A39\r\n\r\n- Choix explicite des os lorsque plusieurs marqueurs visibles sont proches : clic gauche ou droit pour ouvrir la liste, puis choix par nom et partiel/index. Sélection simple et désélection conservées.\r\n- Admission mémoire adaptée au coût des applications Timeline, T-Pose/chargements, remises à zéro et essais de scène. Réserves Windows, tas géré, budget historique et protections natives A35 conservés ; refus identifiés et journalisés sans spam.\r\n- Un déplacement réussi efface l'ancien refus mémoire de la Timeline. Enregistrer n'est plus présenté comme une libération automatique de l'historique.\r\n- Capture facultative de concordance marqueur/gizmo depuis Debug, sans nouvelle acquisition de squelette. Le déport natif reste à diagnostiquer : aucune transformation ou projection artificiellement corrigée.\r\n\r\nValidation automatisée et synthétique uniquement ; les essais ciblés FFXIV restent à effectuer après autorisation d'installation.",
-    "TestingAssemblyVersion": "0.9.10.14",
+    "Changelog": "## Kara Gizmo — expérimental, désactivé par défaut\r\n\r\nUn choix de moteur dans les préférences permet de comparer ImGuizmo standard à Kara Gizmo, avec des distances de prise réglables pour le déplacement, la rotation et l'échelle. Les transformations continuent de passer par le moteur de pose KPL existant.\r\n\r\nLe moteur standard reste actif par défaut. Le moteur expérimental refuse son activation si ses contrôles de fichier, de contrat ImGui ou de contexte échouent. Ces contrôles ne garantissent pas l'absence de toute incompatibilité ABI native ; les essais GPose restent nécessaires.\r\n\r\nCette version conserve A41/A42 : diagnostics du double gizmo, scaling des os, thème violet et préférences des marqueurs. Aucune correction du double gizmo n'est revendiquée.",
+    "TestingAssemblyVersion": "0.9.10.17",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
-    "TestingChangelog": "Kara Posing Lab 0.9.10.14 Experimental — A39\r\n\r\n- Choix explicite des os lorsque plusieurs marqueurs visibles sont proches : clic gauche ou droit pour ouvrir la liste, puis choix par nom et partiel/index. Sélection simple et désélection conservées.\r\n- Admission mémoire adaptée au coût des applications Timeline, T-Pose/chargements, remises à zéro et essais de scène. Réserves Windows, tas géré, budget historique et protections natives A35 conservés ; refus identifiés et journalisés sans spam.\r\n- Un déplacement réussi efface l'ancien refus mémoire de la Timeline. Enregistrer n'est plus présenté comme une libération automatique de l'historique.\r\n- Capture facultative de concordance marqueur/gizmo depuis Debug, sans nouvelle acquisition de squelette. Le déport natif reste à diagnostiquer : aucune transformation ou projection artificiellement corrigée.\r\n\r\nValidation automatisée et synthétique uniquement ; les essais ciblés FFXIV restent à effectuer après autorisation d'installation.",
-    "LastUpdate": "1794146911",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
+    "TestingChangelog": "## Kara Gizmo — expérimental, désactivé par défaut\r\n\r\nUn choix de moteur dans les préférences permet de comparer ImGuizmo standard à Kara Gizmo, avec des distances de prise réglables pour le déplacement, la rotation et l'échelle. Les transformations continuent de passer par le moteur de pose KPL existant.\r\n\r\nLe moteur standard reste actif par défaut. Le moteur expérimental refuse son activation si ses contrôles de fichier, de contrat ImGui ou de contexte échouent. Ces contrôles ne garantissent pas l'absence de toute incompatibilité ABI native ; les essais GPose restent nécessaires.\r\n\r\nCette version conserve A41/A42 : diagnostics du double gizmo, scaling des os, thème violet et préférences des marqueurs. Aucune correction du double gizmo n'est revendiquée.",
+    "LastUpdate": "1794180294",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/icon.png"
   }
 ]

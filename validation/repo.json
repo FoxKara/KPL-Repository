@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.13",
+    "AssemblyVersion": "0.9.10.14",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.13/PoseLabPrototype-0.9.10.13.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.13/PoseLabPrototype-0.9.10.13.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
     "IsTestingExclusive": true,
-    "Changelog": "Kara Posing Lab 0.9.10.13 Experimental — A35\r\n\r\n- Admission native fondée sur les contrats utilisés par KPL, sans liste d'empreintes FFXIVClientStructs. Contrôles techniques exécutés sur les SDK 9414, 9439 et une révision synthétique équivalente ; maintien des protections de build FFXIV et d'accès aux acteurs.\r\n- Le sélecteur distingue une incompatibilité native, une actualisation interrompue, une session sans acteurs et une recherche sans résultat. Le motif de refus est consultable.\r\n- Révocation de l'accès avant les nettoyages : aucune capture/restauration à travers un contrat refusé ; dernier état géré cohérent conservé. Aucun changement des transformations, des formats, des historiques ou des transactions de sauvegarde. Les validations GPose sur les deux environnements restent à effectuer.",
-    "TestingAssemblyVersion": "0.9.10.13",
+    "Changelog": "Kara Posing Lab 0.9.10.14 Experimental — A39\r\n\r\n- Choix explicite des os lorsque plusieurs marqueurs visibles sont proches : clic gauche ou droit pour ouvrir la liste, puis choix par nom et partiel/index. Sélection simple et désélection conservées.\r\n- Admission mémoire adaptée au coût des applications Timeline, T-Pose/chargements, remises à zéro et essais de scène. Réserves Windows, tas géré, budget historique et protections natives A35 conservés ; refus identifiés et journalisés sans spam.\r\n- Un déplacement réussi efface l'ancien refus mémoire de la Timeline. Enregistrer n'est plus présenté comme une libération automatique de l'historique.\r\n- Capture facultative de concordance marqueur/gizmo depuis Debug, sans nouvelle acquisition de squelette. Le déport natif reste à diagnostiquer : aucune transformation ou projection artificiellement corrigée.\r\n\r\nValidation automatisée et synthétique uniquement ; les essais ciblés FFXIV restent à effectuer après autorisation d'installation.",
+    "TestingAssemblyVersion": "0.9.10.14",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.13/PoseLabPrototype-0.9.10.13.zip",
-    "TestingChangelog": "Kara Posing Lab 0.9.10.13 Experimental — A35\r\n\r\n- Admission native fondée sur les contrats utilisés par KPL, sans liste d'empreintes FFXIVClientStructs. Contrôles techniques exécutés sur les SDK 9414, 9439 et une révision synthétique équivalente ; maintien des protections de build FFXIV et d'accès aux acteurs.\r\n- Le sélecteur distingue une incompatibilité native, une actualisation interrompue, une session sans acteurs et une recherche sans résultat. Le motif de refus est consultable.\r\n- Révocation de l'accès avant les nettoyages : aucune capture/restauration à travers un contrat refusé ; dernier état géré cohérent conservé. Aucun changement des transformations, des formats, des historiques ou des transactions de sauvegarde. Les validations GPose sur les deux environnements restent à effectuer.",
-    "LastUpdate": "1794102104",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.13/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/PoseLabPrototype-0.9.10.14.zip",
+    "TestingChangelog": "Kara Posing Lab 0.9.10.14 Experimental — A39\r\n\r\n- Choix explicite des os lorsque plusieurs marqueurs visibles sont proches : clic gauche ou droit pour ouvrir la liste, puis choix par nom et partiel/index. Sélection simple et désélection conservées.\r\n- Admission mémoire adaptée au coût des applications Timeline, T-Pose/chargements, remises à zéro et essais de scène. Réserves Windows, tas géré, budget historique et protections natives A35 conservés ; refus identifiés et journalisés sans spam.\r\n- Un déplacement réussi efface l'ancien refus mémoire de la Timeline. Enregistrer n'est plus présenté comme une libération automatique de l'historique.\r\n- Capture facultative de concordance marqueur/gizmo depuis Debug, sans nouvelle acquisition de squelette. Le déport natif reste à diagnostiquer : aucune transformation ou projection artificiellement corrigée.\r\n\r\nValidation automatisée et synthétique uniquement ; les essais ciblés FFXIV restent à effectuer après autorisation d'installation.",
+    "LastUpdate": "1794146911",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.14/icon.png"
   }
 ]

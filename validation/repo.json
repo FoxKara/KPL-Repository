@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.20",
+    "AssemblyVersion": "0.9.10.21",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.20/PoseLabPrototype-0.9.10.20.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.20/PoseLabPrototype-0.9.10.20.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
     "IsTestingExclusive": true,
-    "Changelog": "L’aperçu de l’épaisseur présente trois axes XYZ plus longs, indépendants de la taille du gizmo. Le réglage Épaisseur et prise reste disponible avec Kara Gizmo.\r\n\r\nLa case « Visibilité automatique des calques » explique désormais sous son libellé comment les marqueurs sont affichés, selon l’état de l’option.",
-    "TestingAssemblyVersion": "0.9.10.20",
+    "Changelog": "Experimental — non validée en GPose. Essais prévus après la maintenance FFXIV.\n\nLe bouton T-Pose peut désormais définir la pose de départ des calques. L’option est activée par défaut. Si des calques ou leurs historiques contiennent du travail, KPL demande confirmation avant de les remplacer. En décochant l’option, la T-Pose reste une modification de pose ordinaire.",
+    "TestingAssemblyVersion": "0.9.10.21",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.20/PoseLabPrototype-0.9.10.20.zip",
-    "TestingChangelog": "L’aperçu de l’épaisseur présente trois axes XYZ plus longs, indépendants de la taille du gizmo. Le réglage Épaisseur et prise reste disponible avec Kara Gizmo.\r\n\r\nLa case « Visibilité automatique des calques » explique désormais sous son libellé comment les marqueurs sont affichés, selon l’état de l’option.",
-    "LastUpdate": "1794190597",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.20/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
+    "TestingChangelog": "Experimental — non validée en GPose. Essais prévus après la maintenance FFXIV.\n\nLe bouton T-Pose peut désormais définir la pose de départ des calques. L’option est activée par défaut. Si des calques ou leurs historiques contiennent du travail, KPL demande confirmation avant de les remplacer. En décochant l’option, la T-Pose reste une modification de pose ordinaire.",
+    "LastUpdate": "1794218632",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/icon.png"
   }
 ]

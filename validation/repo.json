@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.17",
+    "AssemblyVersion": "0.9.10.18",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.18/PoseLabPrototype-0.9.10.18.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.18/PoseLabPrototype-0.9.10.18.zip",
     "IsTestingExclusive": true,
-    "Changelog": "## Kara Gizmo — expérimental, désactivé par défaut\r\n\r\nUn choix de moteur dans les préférences permet de comparer ImGuizmo standard à Kara Gizmo, avec des distances de prise réglables pour le déplacement, la rotation et l'échelle. Les transformations continuent de passer par le moteur de pose KPL existant.\r\n\r\nLe moteur standard reste actif par défaut. Le moteur expérimental refuse son activation si ses contrôles de fichier, de contrat ImGui ou de contexte échouent. Ces contrôles ne garantissent pas l'absence de toute incompatibilité ABI native ; les essais GPose restent nécessaires.\r\n\r\nCette version conserve A41/A42 : diagnostics du double gizmo, scaling des os, thème violet et préférences des marqueurs. Aucune correction du double gizmo n'est revendiquée.",
-    "TestingAssemblyVersion": "0.9.10.17",
+    "Changelog": "Un deuxième clic sur le marqueur sélectionné désélectionne l'os. Les marqueurs qui se superposent gardent leur menu de choix, également accessible au clic droit.\r\n\r\nLes réglages séparent la taille du gizmo de l'épaisseur et de la prise. Kara Gizmo propose Fin, Normal, Confort et Large, avec un aperçu des traits et de leur prise. Le moteur Standard conserve son rendu historique.\r\n\r\nCinq couleurs et dix niveaux d'atténuation sont disponibles pour les marqueurs, avec aperçu sur fonds clair et sombre. Kara Gizmo ABI 2 reste expérimental et activable dans les paramètres. Essais GPose à effectuer.\r\n\r\nLe bouton d'outil alterne entre Déplacement, Rotation et Échelle. L'indication redondante au-dessus de la sélection du groupe a été retirée.",
+    "TestingAssemblyVersion": "0.9.10.18",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/PoseLabPrototype-0.9.10.17.zip",
-    "TestingChangelog": "## Kara Gizmo — expérimental, désactivé par défaut\r\n\r\nUn choix de moteur dans les préférences permet de comparer ImGuizmo standard à Kara Gizmo, avec des distances de prise réglables pour le déplacement, la rotation et l'échelle. Les transformations continuent de passer par le moteur de pose KPL existant.\r\n\r\nLe moteur standard reste actif par défaut. Le moteur expérimental refuse son activation si ses contrôles de fichier, de contrat ImGui ou de contexte échouent. Ces contrôles ne garantissent pas l'absence de toute incompatibilité ABI native ; les essais GPose restent nécessaires.\r\n\r\nCette version conserve A41/A42 : diagnostics du double gizmo, scaling des os, thème violet et préférences des marqueurs. Aucune correction du double gizmo n'est revendiquée.",
-    "LastUpdate": "1794180294",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.17/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.18/PoseLabPrototype-0.9.10.18.zip",
+    "TestingChangelog": "Un deuxième clic sur le marqueur sélectionné désélectionne l'os. Les marqueurs qui se superposent gardent leur menu de choix, également accessible au clic droit.\r\n\r\nLes réglages séparent la taille du gizmo de l'épaisseur et de la prise. Kara Gizmo propose Fin, Normal, Confort et Large, avec un aperçu des traits et de leur prise. Le moteur Standard conserve son rendu historique.\r\n\r\nCinq couleurs et dix niveaux d'atténuation sont disponibles pour les marqueurs, avec aperçu sur fonds clair et sombre. Kara Gizmo ABI 2 reste expérimental et activable dans les paramètres. Essais GPose à effectuer.\r\n\r\nLe bouton d'outil alterne entre Déplacement, Rotation et Échelle. L'indication redondante au-dessus de la sélection du groupe a été retirée.",
+    "LastUpdate": "1794184168",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.18/icon.png"
   }
 ]

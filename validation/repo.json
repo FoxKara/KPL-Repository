@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.21",
+    "AssemblyVersion": "0.9.10.22",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
     "IsTestingExclusive": true,
-    "Changelog": "Experimental — non validée en GPose. Essais prévus après la maintenance FFXIV.\n\nLe bouton T-Pose peut désormais définir la pose de départ des calques. L’option est activée par défaut. Si des calques ou leurs historiques contiennent du travail, KPL demande confirmation avant de les remplacer. En décochant l’option, la T-Pose reste une modification de pose ordinaire.",
-    "TestingAssemblyVersion": "0.9.10.21",
+    "Changelog": "Experimental — compatibilité native non validée en GPose\n\nLa compatibilité native a été réexaminée pour le client FFXIV 2026.11.03.0000.0000 et Dalamud 15.0.4.0. Les contrôles de contrats, de build et de sécurité restent actifs.\r\n\r\nL’onglet Débogage conserve les informations utiles et les secours. Les deux boutons d’armement de capture du gizmo ont été retirés.\r\n\r\nVersion expérimentale. Les essais en GPose après mise à jour restent à effectuer.",
+    "TestingAssemblyVersion": "0.9.10.22",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/PoseLabPrototype-0.9.10.21.zip",
-    "TestingChangelog": "Experimental — non validée en GPose. Essais prévus après la maintenance FFXIV.\n\nLe bouton T-Pose peut désormais définir la pose de départ des calques. L’option est activée par défaut. Si des calques ou leurs historiques contiennent du travail, KPL demande confirmation avant de les remplacer. En décochant l’option, la T-Pose reste une modification de pose ordinaire.",
-    "LastUpdate": "1794218632",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.21/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
+    "TestingChangelog": "Experimental — compatibilité native non validée en GPose\n\nLa compatibilité native a été réexaminée pour le client FFXIV 2026.11.03.0000.0000 et Dalamud 15.0.4.0. Les contrôles de contrats, de build et de sécurité restent actifs.\r\n\r\nL’onglet Débogage conserve les informations utiles et les secours. Les deux boutons d’armement de capture du gizmo ont été retirés.\r\n\r\nVersion expérimentale. Les essais en GPose après mise à jour restent à effectuer.",
+    "LastUpdate": "1794354707",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/icon.png"
   }
 ]

@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.23",
+    "AssemblyVersion": "0.9.10.24",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.24/PoseLabPrototype-0.9.10.24.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.24/PoseLabPrototype-0.9.10.24.zip",
     "IsTestingExclusive": true,
-    "Changelog": "Experimental — non validée en GPose\n\nKPL s’ouvre à l’entrée en GPose et se ferme à la sortie. La commande /kpl permet aussi de basculer sa visibilité. Les confirmations de sortie et de T-Pose sont centrées et s’adaptent à l’écran.\r\n\r\nKara Gizmo propose les palettes Classique XYZ et Kara, ainsi que quatre couleurs personnalisables. Les couleurs suivent les axes, l’aperçu et les champs numériques lorsque Kara Gizmo est actif.\r\n\r\nVersion expérimentale, validation réelle en GPose encore requise. Kara Gizmo privé utilise désormais l’ABI 3.",
-    "TestingAssemblyVersion": "0.9.10.23",
+    "Changelog": "Experimental — non validée en GPose\r\n\r\nKara Gizmo propose deux palettes dans les paramètres. Classique XYZ retrouve les couleurs natives et l’orange historique du survol et de la sélection. Kara conserve le violet, le blanc, l’anthracite et le rose clair. Les champs numériques et l’aperçu suivent la palette active.\r\n\r\nUne palette personnalisée A57 reprend son dernier préréglage enregistré. Kara Gizmo utilise toujours la bibliothèque ABI 3 de la version 0.9.10.23.",
+    "TestingAssemblyVersion": "0.9.10.24",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
-    "TestingChangelog": "Experimental — non validée en GPose\n\nKPL s’ouvre à l’entrée en GPose et se ferme à la sortie. La commande /kpl permet aussi de basculer sa visibilité. Les confirmations de sortie et de T-Pose sont centrées et s’adaptent à l’écran.\r\n\r\nKara Gizmo propose les palettes Classique XYZ et Kara, ainsi que quatre couleurs personnalisables. Les couleurs suivent les axes, l’aperçu et les champs numériques lorsque Kara Gizmo est actif.\r\n\r\nVersion expérimentale, validation réelle en GPose encore requise. Kara Gizmo privé utilise désormais l’ABI 3.",
-    "LastUpdate": "1794361342",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.24/PoseLabPrototype-0.9.10.24.zip",
+    "TestingChangelog": "Experimental — non validée en GPose\r\n\r\nKara Gizmo propose deux palettes dans les paramètres. Classique XYZ retrouve les couleurs natives et l’orange historique du survol et de la sélection. Kara conserve le violet, le blanc, l’anthracite et le rose clair. Les champs numériques et l’aperçu suivent la palette active.\r\n\r\nUne palette personnalisée A57 reprend son dernier préréglage enregistré. Kara Gizmo utilise toujours la bibliothèque ABI 3 de la version 0.9.10.23.",
+    "LastUpdate": "1794364728",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.24/icon.png"
   }
 ]

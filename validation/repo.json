@@ -11,17 +11,17 @@
       "gpose",
       "posing"
     ],
-    "AssemblyVersion": "0.9.10.22",
+    "AssemblyVersion": "0.9.10.23",
     "RepoUrl": "https://github.com/FoxKara/KPL-Repository",
-    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
-    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
+    "DownloadLinkInstall": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
+    "DownloadLinkUpdate": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
     "IsTestingExclusive": true,
-    "Changelog": "Experimental — compatibilité native non validée en GPose\n\nLa compatibilité native a été réexaminée pour le client FFXIV 2026.11.03.0000.0000 et Dalamud 15.0.4.0. Les contrôles de contrats, de build et de sécurité restent actifs.\r\n\r\nL’onglet Débogage conserve les informations utiles et les secours. Les deux boutons d’armement de capture du gizmo ont été retirés.\r\n\r\nVersion expérimentale. Les essais en GPose après mise à jour restent à effectuer.",
-    "TestingAssemblyVersion": "0.9.10.22",
+    "Changelog": "Experimental — non validée en GPose\n\nKPL s’ouvre à l’entrée en GPose et se ferme à la sortie. La commande /kpl permet aussi de basculer sa visibilité. Les confirmations de sortie et de T-Pose sont centrées et s’adaptent à l’écran.\r\n\r\nKara Gizmo propose les palettes Classique XYZ et Kara, ainsi que quatre couleurs personnalisables. Les couleurs suivent les axes, l’aperçu et les champs numériques lorsque Kara Gizmo est actif.\r\n\r\nVersion expérimentale, validation réelle en GPose encore requise. Kara Gizmo privé utilise désormais l’ABI 3.",
+    "TestingAssemblyVersion": "0.9.10.23",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/PoseLabPrototype-0.9.10.22.zip",
-    "TestingChangelog": "Experimental — compatibilité native non validée en GPose\n\nLa compatibilité native a été réexaminée pour le client FFXIV 2026.11.03.0000.0000 et Dalamud 15.0.4.0. Les contrôles de contrats, de build et de sécurité restent actifs.\r\n\r\nL’onglet Débogage conserve les informations utiles et les secours. Les deux boutons d’armement de capture du gizmo ont été retirés.\r\n\r\nVersion expérimentale. Les essais en GPose après mise à jour restent à effectuer.",
-    "LastUpdate": "1794354707",
-    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.22/icon.png"
+    "DownloadLinkTesting": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/PoseLabPrototype-0.9.10.23.zip",
+    "TestingChangelog": "Experimental — non validée en GPose\n\nKPL s’ouvre à l’entrée en GPose et se ferme à la sortie. La commande /kpl permet aussi de basculer sa visibilité. Les confirmations de sortie et de T-Pose sont centrées et s’adaptent à l’écran.\r\n\r\nKara Gizmo propose les palettes Classique XYZ et Kara, ainsi que quatre couleurs personnalisables. Les couleurs suivent les axes, l’aperçu et les champs numériques lorsque Kara Gizmo est actif.\r\n\r\nVersion expérimentale, validation réelle en GPose encore requise. Kara Gizmo privé utilise désormais l’ABI 3.",
+    "LastUpdate": "1794361342",
+    "IconUrl": "https://github.com/FoxKara/KPL-Repository/releases/download/validation-v0.9.10.23/icon.png"
   }
 ]
